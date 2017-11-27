@@ -61,3 +61,4 @@ for k in range(8):
 
 
 window.close_on_mouse_click()
+
